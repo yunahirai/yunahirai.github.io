@@ -1,3 +1,8 @@
 h1 {color: blue;
     font-size: 25px;
 }
+
+.new_info {border-bottom: 1px solid black;
+           border-top: 1px solid black;}
+
+           
